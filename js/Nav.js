@@ -3,7 +3,7 @@ nav.innerHTML = `
   <header>
 		<!-- Logo -->
 		<a href="index.html" class="logo">
-			<img src="img/m075logo.png">
+			<img src="img/chrome.png">
 		</a>
 		<!-- Menu -->
 		<div class="menu">
